@@ -11,7 +11,7 @@ const Footer = () => {
 
       <div className="social-icon">
           <a href="https://www.linkedin.com/in/-shubham-kumar/" target="_blank" rel="noopener noreferrer">
-          <img src="/assets/linked.svg" alt="linkedin" className="w-5 h-1/2" /></a>
+          <img src="/assets/lina.svg" alt="linkedin" className="w-5 h-1/2" /></a>
         </div>
         <div className="social-icon">
           <a href="https://github.com/SHUBHAMKUMAR45" target="_blank" rel="noopener noreferrer">
@@ -24,7 +24,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className="text-white-500">© 2024 SHUBHAM KUAMR . All rights reserved.</p>
+      <p className="text-white-500">© 2025 SHUBHAM KUAMR . All rights reserved.</p>
     </footer>
   );
 };
